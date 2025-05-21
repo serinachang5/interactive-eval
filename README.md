@@ -1,4 +1,4 @@
-Code for the paper "ChatBench: From Static Benchmarks to Human-AI Evaluation" (ACL 2025). Contents include:
+Code for ["ChatBench: From Static Benchmarks to Human-AI Evaluation"](https://arxiv.org/abs/2504.07114) (ACL 2025) by Serina Chang, Ashton Anderson, and Jake Hofman. Contents include:
 - ``get_mturk_azure_results_by_hit.py``: function to pull raw data from our Azure database, where data from our user studies are logged.
 - ``analyze_results.py``: code to process raw user study data and analyze results.
 - ``make_clean_data.py``: code to make a clean version of answers for statistical analyses, following the filtering criteria defined in our [pre-registration](https://aspredicted.org/n84n-sn3f.pdf).
